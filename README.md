@@ -2,7 +2,7 @@
 Launch simulation for Falcon 9 and Falcon Heavy. It should be easily extensible for other rockets (BFR...?) and theoretically it should also be easy to implement fuel cross-feed.
 
 ##Acknowledgements
-https://github.com/murphd37/SpX for their amazing launch simulations and landing burn (which this repo does not simulate).
+https://github.com/murphd37/SpX for their amazing launch simulations and landing burn (which this repo does not simulate). Some of the code is based on their code, thank you very much :).
 
 ##Considerations:
 * I'm a high school student, beware of bugs (and flawed physics) in the code!
