@@ -15,3 +15,7 @@ https://github.com/murphd37/SpX for their amazing launch simulations and landing
 * I was able to put a Falcon 9 into a 316x200 orbit with a payload of 13500 kg and some 5325 kg of fuel to spare. That translates to a total "payload" of 19t, which confirms the extra 30% margin for reusability that Falcon 9 has built in [we have to take the fairings' 1.75t weight to make ends meet, and we should also consider that these 5325 kg of fuel can be burned for extra payload and that the orbit isn't circular].
 * Falcon Heavy seems to require a steeper gravity turn, right now it kinda works but to make it really work I'd need a correct launch trajectory (without course corrections it's incredibly hard to get a correct orbit!).
 * Now that we have some extra info for BFR we should be able to implement it with this code. It's a matter of creating an Engine() for the Raptor engines and creating the proper Stage()s to make the final Rocket() (see example code).
+
+## Further work
+* Help would be appreciated on the launch profile/trajectory!
+* Implementing BFR would be cool!
